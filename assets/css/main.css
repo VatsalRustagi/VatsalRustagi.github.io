@@ -2096,7 +2096,7 @@
 			-webkit-transition: opacity 0.25s ease-in-out;
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
+			/*background-image: url("images/overlay.png");*/
 			content: '';
 			display: block;
 			height: 100%;
@@ -2104,7 +2104,7 @@
 			opacity: 0.2;
 			position: absolute;
 			top: 0;
-			width: 100%;
+			/*width: 100%;*/
 		}
 
 		.image img {
@@ -2117,7 +2117,7 @@
 
 			.image.fit img {
 				display: block;
-				width: 100%;
+				/*width: 100%;*/
 			}
 
 		.image.feature {
@@ -2582,6 +2582,10 @@
 			  max-width: 200px;
 			  margin: 0 auto 30px;
 			  border-radius: 100%;
+			}
+
+			#header .description{
+				margin: 50px auto 50px;
 			}
 
 		#header h1 {
