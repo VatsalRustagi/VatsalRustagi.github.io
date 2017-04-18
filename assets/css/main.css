@@ -2588,6 +2588,17 @@
 				margin: 50px auto 50px;
 			}
 
+			#header .favIcons{
+				margin: 20px 0;
+			}
+
+			#header .favIcons li{
+				display:inline;
+				margin: 0 5px;
+				padding: 15px;
+			}
+
+
 		#header h1 {
 			font-size: 2.5em;
 			margin: 0;
