@@ -2147,11 +2147,11 @@
 				height: 1em;
 				left: 50%;
 				line-height: 1em;
-				margin: -0.5em 0 0 -0.5em;
+				margin: 0em 0 0 0em;
 				position: absolute;
 				text-align: center;
 				top: 50%;
-				width: 1em;
+				width: 2em;
 				z-index: 1;
 			}
 
